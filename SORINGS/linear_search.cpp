@@ -26,3 +26,13 @@ int main()
 
     return 0;
 }
+
+
+
+
+BEST CASE => O(1)
+WORST CASE => O(n)
+AVERAGECASE => O(n)
+    
+    
+AYUSH GUPTA
