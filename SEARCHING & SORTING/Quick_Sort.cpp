@@ -23,7 +23,6 @@ int partition(int arr[], int low, int high)
             swap(arr[start], arr[end]);
     }
     swap(arr[low], arr[end]);
-    printArray(arr, (high + 1));
     return end;
 }
 void quickSort(int arr[], int low, int high)
