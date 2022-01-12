@@ -45,3 +45,9 @@ int main()
 
     return 0;
 }
+
+
+
+// Worst Case : O(n^2)
+// Best/Avg Case : O(nlog n)
+// Ayush Gupta
